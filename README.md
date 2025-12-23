@@ -1,45 +1,46 @@
-# <p align="center">✨ Mrchancox </p>
+# <p align="center">🎮 Mrchancox 的像素小屋</p>
 
 <p align="center">
-  <i>"fighting...."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=333&text=———%20E%20X%20P%20L%20O%20R%20E%20%20%20T%20H%20E%20%20%20L%20I%20F%20E%20———&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=150&section=header&text=Welcome%20Player!&fontSize=60&fontAlignY=40" />
 </p>
 
 ---
 
-### 🎨 空间序语
-> 在这里，代码不仅是工具，更是对世界的探索。
+### 💾 冒险者档案
+> `加载中...` 愿你像像素一样，虽小却能构成精彩世界。
 
-* **身份** · 学生
-* **状态** · fighting
+* 🌟 **角色名**：Mrchancox (Lv.1 新手勇者)
+* 🗺️ **当前任务**：学习ing...
+* 💖 **NPC关系**：与所有友善的开发者保持良好互动
 
 ---
 
-### 📉 数字化足迹
+### 📊 经验值面板
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=soft&hide_border=true&title_color=666&icon_color=999&text_color=888&bg_color=ffffff00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=dracula&hide_border=true&title_color=FF69B4&icon_color=00FFFF&text_color=F8F8F2&bg_color=282A36" />
+</p>
+
+### 👾 像素道具
+<p align="center">
+  <img src="https://img.shields.io/badge/道具-魔法书%20(Code)-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/道具-加速药水%20(Coffee)-FF1493?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.io/badge/道具-灵感之石%20(Ideas)-FFC0CB?style=for-the-badge&logo=lightbulb&logoColor=white" />
 </p>
 
 ---
 
-### 🔖 独白标签
+### 👣 访客传送门
 <p align="center">
-  <code>💡 独立思考</code> &nbsp;&nbsp; 
-  <code>🌱 向上生长</code> &nbsp;&nbsp; 
-  <code>🌊 随遇而安</code> &nbsp;&nbsp; 
-  <code>📍 步履不停</code>
+  <img src="https://komarev.com/ghpvc/?username=Mrchancox&color=FF69B4&style=for-the-badge&label=抵达访客" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD1DC&height=5&section=footer" width="80%" />
 </p>
 
 ---
 
-### 🧭 访客驿站
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrchancox&color=D3D3D3&style=flat&label=VISITOR%20NO." />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=1&section=footer" width="50%" />
+  <img src="https://raw.githubusercontent.com/Mrchancox/Mrchancox/main/assets/pixel-art-character.gif" width="50" alt="Pixel Art Character" />
+  <br><i>(想象这里有一个像素小人在挥手)</i>
 </p>
