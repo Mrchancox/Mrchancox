@@ -1,32 +1,34 @@
-# 🚀 欢迎来到 Mrchancox 的新手村！
+# ✨ 欢迎来到 Mrchancox 的空间
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=702283&height=200&section=header&text=Hello%20Stranger!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=008080&height=120&section=header&text=Explore%20the%20Unknown&fontSize=50&fontAlignY=50" />
 </p>
 
-### 🎭 角色档案
-- 🏅 **当前等级**：Lv.1 编程世界的新手冒险者
-- 🎒 **随身装备**：一壶咖啡 ☕、一份好奇心 🔍、还有用不完的“重启大法” 💻
-- 🗺️ **当前坐标**：正在“互联网大海”里划水中...
-- 📜 **个人信条**：只要我不尴尬，代码就难不倒我。
+### 📖 个人简述
+- 🏔️ **目标**：保持热爱，奔赴山海。
+- 🔍 **近况**：正在探索数字世界的无限可能，构建属于自己的知识体系。
+- 💡 **特质**：对未知事物充满好奇，享受解决问题的过程。
+- 📜 **寄语**：每一段伟大的旅程，都始于脚下的第一步。
 
-### 📊 冒险状态图
+### 📊 探索数据
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB9AF7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=calm&hide_border=true&title_color=008080" />
 </p>
 
-### 🌈 兴趣雷达 (Level Up!)
-![熬夜](https://img.shields.io/badge/-修仙级熬夜选手-8A2BE2?style=for-the-badge&logo=icloud)
-![探索](https://img.shields.io/badge/-好奇心驱动器-00CED1?style=for-the-badge&logo=target)
-![游戏](https://img.shields.io/badge/-头号玩家-FF4500?style=for-the-badge&logo=nintendo-switch)
-![思考](https://img.shields.io/badge/-深思熟虑的摸鱼-2F4F4F?style=for-the-badge&logo=linux)
+### 🌈 个人标签
+![持续学习](https://img.shields.io/badge/-持续学习者-2E8B57?style=for-the-badge&logo=googlescholar&logoColor=white)
+![保持好奇](https://img.shields.io/badge/-深度思考-4682B4?style=for-the-badge&logo=lightburn&logoColor=white)
+![热爱生活](https://img.shields.io/badge/-热爱生活-20B2AA?style=for-the-badge&logo=leaf&logoColor=white)
+![执行力](https://img.shields.io/badge/-高效执行-708090?style=for-the-badge&logo=rocket&logoColor=white)
 
-### 👣 访客足迹
-<p align="left">
-  你是第 <img src="https://komarev.com/ghpvc/?username=Mrchancox&color=702283&style=flat-square&label=位来到这里的冒险者" />
-</p>
+---
+
+### 👣 访客记录
+| 欢迎第 | 位来到这里的探索者 |
+| :--- | :--- |
+| <img src="https://komarev.com/ghpvc/?username=Mrchancox&color=008080&style=flat-square&label=%20" /> | 愿你在这里发现美好 ✨ |
 
 ---
 <p align="center">
-  星光不问赶路人，时光不负有心人。✨
+  期待与优秀的你共同成长。
 </p>
