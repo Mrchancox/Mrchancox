@@ -1,32 +1,36 @@
-# 👋 你好，我是 Mrchancox!
+# 🚀 欢迎来到 Mrchancox 的新手村！
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mrchancox&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Hello%20Stranger!&fontSize=70" />
 </p>
 
-### 💫 关于我
-- 🔭 我目前正在致力于 **[项目名称]**
-- 🌱 我正在学习 **[技术栈，如 Rust / Web3]**
-- 💬 如果你有关于 **[领域]** 的问题，欢迎随时问我
-- ⚡ 趣味事实: **[写一点你的个人爱好，比如：我能一口气喝掉一升可乐]**
+### 🎭 角色档案
+- 🏅 **当前等级**：Lv.1 编程世界的新手冒险者
+- 🎒 **随身装备**：一壶咖啡 ☕、一份好奇心 🔍、还有用不完的“CV大法” 💻
+- 🗺️ **当前坐标**：正在“互联网大海”里划水中...
+- 📜 **个人信条**：只要我不尴尬，代码就难不倒我。
 
-### 🛠 技能栈 (Tech Stack)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 📊 GitHub 统计
+### 📊 冒险状态图
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrchancox&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF" />
 </p>
 
-### 🐍 贡献贪吃蛇
-![Snake animation](https://github.com/Mrchancox/Mrchancox/blob/output/github-contribution-grid-snake.svg)
+### 🌈 兴趣雷达
+![熬夜](https://img.shields.io/badge/-熬夜冠军-black?style=for-the-badge&logo=moon)
+![搜索](https://img.shields.io/badge/-搜索专家-blue?style=for-the-badge&logo=google)
+![美食](https://img.shields.io/badge/-干饭人-orange?style=for-the-badge&logo=shutterstock)
+![游戏](https://img.shields.io/badge/-资深玩家-red?style=for-the-badge&logo=nintendo-switch)
+
+### 💬 每日一言
+> 这里每天都会换一句好玩的话：
+>
+> ![](https://v1.hitokoto.cn/?encode=jsc&select=%23hitokoto)
+
+### 👣 访客记录
+> 你是第位来到我新手村的冒险者：
+<img src="https://profile-counter.glitch.me/Mrchancox/count.svg" />
 
 ---
 <p align="center">
-  <a href="https://your-website.com">个人网站</a> •
-  <a href="https://twitter.com/your-handle">Twitter</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  星光不问赶路人，时光不负有心人。🌟
 </p>
