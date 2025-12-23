@@ -1,34 +1,45 @@
-# ✨ 欢迎来到 Mrchancox 的空间
+# <p align="center">✨ Mrchancox </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=008080&height=120&section=header&text=Explore%20the%20Unknown&fontSize=50&fontAlignY=50" />
+  <i>"fighting...."</i>
 </p>
 
-### 📖 个人简述
-- 🏔️ **目标**：保持热爱，奔赴山海。
-- 🔍 **近况**：正在探索数字世界的无限可能，构建属于自己的知识体系。
-- 💡 **特质**：对未知事物充满好奇，享受解决问题的过程。
-- 📜 **寄语**：每一段伟大的旅程，都始于脚下的第一步。
-
-### 📊 探索数据
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=calm&hide_border=true&title_color=008080" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=333&text=———%20E%20X%20P%20L%20O%20R%20E%20%20%20T%20H%20E%20%20%20L%20I%20F%20E%20———&fontSize=20" />
 </p>
-
-### 🌈 个人标签
-![持续学习](https://img.shields.io/badge/-持续学习者-2E8B57?style=for-the-badge&logo=googlescholar&logoColor=white)
-![保持好奇](https://img.shields.io/badge/-深度思考-4682B4?style=for-the-badge&logo=lightburn&logoColor=white)
-![热爱生活](https://img.shields.io/badge/-热爱生活-20B2AA?style=for-the-badge&logo=leaf&logoColor=white)
-![执行力](https://img.shields.io/badge/-高效执行-708090?style=for-the-badge&logo=rocket&logoColor=white)
 
 ---
 
-### 👣 访客记录
-| 欢迎第 | 位来到这里的探索者 |
-| :--- | :--- |
-| <img src="https://komarev.com/ghpvc/?username=Mrchancox&color=008080&style=flat-square&label=%20" /> | 愿你在这里发现美好 ✨ |
+### 🎨 空间序语
+> 在这里，代码不仅是工具，更是对世界的探索。
+
+* **身份** · 学生
+* **状态** · fighting
 
 ---
+
+### 📉 数字化足迹
 <p align="center">
-  期待与优秀的你共同成长。
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=soft&hide_border=true&title_color=666&icon_color=999&text_color=888&bg_color=ffffff00" />
+</p>
+
+---
+
+### 🔖 独白标签
+<p align="center">
+  <code>💡 独立思考</code> &nbsp;&nbsp; 
+  <code>🌱 向上生长</code> &nbsp;&nbsp; 
+  <code>🌊 随遇而安</code> &nbsp;&nbsp; 
+  <code>📍 步履不停</code>
+</p>
+
+---
+
+### 🧭 访客驿站
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mrchancox&color=D3D3D3&style=flat&label=VISITOR%20NO." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=1&section=footer" width="50%" />
 </p>
