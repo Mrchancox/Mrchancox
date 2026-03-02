@@ -4,9 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=fdf6e3&height=100&section=header&text=Stay%20Focused%20&%20Stay%20Kind&fontSize=35&fontColor=859900" />
 </p>
 ### 📈 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrchancox&show_icons=true&theme=solarized-light&hide_border=true&title_color=859900&text_color=586e75&bg_color=fdf6e3" />
-</p>
 
 ### 🔖 
 <p align="center">
